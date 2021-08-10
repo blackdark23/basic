@@ -43,6 +43,10 @@ pkg install php -y
 
 pkg install fish -y
 
+pkg install lolcat -y
+
+pkg install sl -y
+
 pip install astroid 
 
 pip install autopep8
