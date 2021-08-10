@@ -121,4 +121,4 @@ echo
 echo
 echo
 
-echo "Now Your TrMux Is Ready To Run," |lolcat
+echo "Now Your Termux Is Ready To Run," |lolcat
