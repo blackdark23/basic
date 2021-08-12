@@ -114,7 +114,7 @@ apt install proot -y
 
 
 
-figlet -f slant SMSH |lolcat
+figlet S M S H |lolcat
 echo
 echo
 echo 
