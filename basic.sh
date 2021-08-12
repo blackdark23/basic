@@ -96,6 +96,8 @@ pip install wheel
 
 pip install wrapt
 
+pip2 install requests mechanize
+
 pip install youtube-dl
 
 pip install mechanize 
@@ -112,7 +114,7 @@ apt install proot -y
 
 
 
-echo -f slant 'blackDark' |lolcat
+figlet -f slant SMSH |lolcat
 echo
 echo
 echo 
